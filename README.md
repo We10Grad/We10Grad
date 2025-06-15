@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud tech and dev ops engineering
 - 🌱 I’m currently learning everything!
 - 💞️ I’m looking to collaborate on studying coding.
-- 📫 How to reach me - email.
+- 📫 How to reach me - jonzeldenrust@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to scuba dive.
 
