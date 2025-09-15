@@ -12,9 +12,9 @@ I'm a former pastor transitioning into the tech world. I love building relations
 - [LinkedIn](https://www.linkedin.com/in/jon-zeldenrust-39643578/)
 - [Email](mailto:jonzeldenrust@gmail.com)
 
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile Views" />
 </div>
 
 <!---
